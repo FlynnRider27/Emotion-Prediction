@@ -1,0 +1,1 @@
+Project for prediciting human emotion from the picture
